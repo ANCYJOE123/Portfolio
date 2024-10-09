@@ -1,4 +1,4 @@
-# PRODIGY_WD_04
+# Portfolio
 A portfolio website is built to showcase my technical skills,web design skills.
 technologies used is html,css and javascript.
 ![pic1](https://github.com/ANCYJOE123/PRODIGY_WD_04/assets/123748672/08155ed9-591b-497f-876a-4d427cb61963)
